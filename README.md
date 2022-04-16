@@ -35,7 +35,7 @@ When comparing the the two types of schools in all metrics, charter schools have
 | District  | 80.96 | 76.96 | 53.67
 
 A key factor that contribute to this outcome is the difference in size between these two school types.  
-The table below shows the top 5 and bottom 5 performing schools in the district, showing that the best performers are all charter schools and the worst performing are all district schools. It also lists the total students that each school has.
+The table below shows the top 5 and bottom 5 performing schools in the district, showing that the best performers are all charter schools and the worst performing are all district schools. It also lists the total students in each school.
 
 
 | School Name | Type | Total Students | % Overall Passing |
@@ -53,9 +53,12 @@ The table below shows the top 5 and bottom 5 performing schools in the district,
 | Rodriguez High | District | 3999 | 52.99
 
 Charter schools have much fewer students to teach than district schools. This is important because the more students that a school has, the more spread out its budget and resources will be, which could result in a less thorough education.  
+
 With this in mind, the average test scores of district schools will be lower, as a larger student body will have larger ranges of passing and failing students.  
+
 Therefore, having fewer students in a school may result in a more concentrated and lasting education, which may contribute to higher test scores and passing rates.
 
+  
 
 **_Spending more resources on students doesn't necessarily result in higher scores._**
 
@@ -70,8 +73,9 @@ The table below shows the average amount of students passing sorted by how much 
 | $640 - $670 | 80.67 | 66.70 | 53.71
 
 At first, the data can seem contradictory. Generally, a student with more resources at their disposal will have more potential to succeed than one with fewer resources. Following that statement, the schools that spend the most amongst its student body should be showing more successful results.  
-However, the opposite is the case with this data set. The highest spenders turn out to be the district schools, who need a larger budget to accomodate for their larger student body.  
-Since district schools tend to score lower overall because they have so many students, it can be inferred that success is not correlated with spending more per student.  
-This doesn't mean that their budgets should be cut, or that they should spend less overall.  
-One possible explanation could be that schools that report spending less per student are finding better ways to use their resources.  
+
+However, the opposite is the case with this data set. The highest spenders turn out to be the district schools, who need a larger budget to accomodate for their larger student body. Since district schools tend to score lower overall because they have so many students, it can be inferred that success is not correlated with spending more per student.  
+
+This doesn't mean that their budgets should be cut, or that they should spend less overall. One possible explanation could be that schools that report spending less per student are finding better ways to use their resources.  
+
 Although this is outside of the scope of this data set, a question to ask is to see if there could be more efficient ways for higher spending schools to utilize their budgets for instruction, supplies, etc., and then seeing if those changes affect overall student performance.
