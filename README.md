@@ -1,4 +1,4 @@
-# Charter Schools vs. District Schools - Data Analysis using Pandas
+# Charter Schools vs. District Schools - Data Analysis
 
 A series of programs using Python, Pandas, and Jupyter Notebook to analyze sample data about schools, their students, and their test scores.
 
