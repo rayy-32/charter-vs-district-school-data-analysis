@@ -1,12 +1,6 @@
-# pandas-challenge
-
-Assignment 4 of UCI's Data Visualization Program
+# Charter Schools vs. District Schools - Data Analysis using Pandas
 
 A series of programs using Python, Pandas, and Jupyter Notebook to analyze sample data about schools, their students, and their test scores.
-
-With this data, insights about how successful a given school is based on the metrics used can be drawn.
-
-An analysis of the processed data can be found below, under 'Report Analysis'.
 
 ## About
 
